@@ -8,7 +8,4 @@
      {
         echo "success!</br>";
      }
-      //  $course=$_POST['course'];
-       // $sql="INSERT INTO `course` (`course`) VALUES ('$course')";
-      //  $result=mysqli_query($con,$sql);
 ?>
