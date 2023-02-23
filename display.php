@@ -10,8 +10,8 @@
 			<tr>
 				<th scope="col">id</th>
 				<th scope="col">User name</th>
-				<th	scope="col">password</th>
-				<th	scope="col">Action</th>
+				<th scope="col">password</th>
+				<th scope="col">Action</th>
 			</tr>
 </thead>
 	<tbody>
