@@ -1,3 +1,3 @@
 <?php
-            $con=mysqli_connect("localhost","root","","school");
+    $con=mysqli_connect("localhost","root","","facebook");  
 ?>
